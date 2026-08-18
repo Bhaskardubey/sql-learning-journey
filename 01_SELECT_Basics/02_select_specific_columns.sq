@@ -1,0 +1,3 @@
+SELECT hotel_name, city
+FROM hotels;
+Purpose: selecting only required columns.
